@@ -3,7 +3,11 @@ A model of water resources of the Western US designed to support climate-resilie
 
 This repository archives the Western U.S. Water Systems Model (WWSM) created within the WEAP software platform and documented in the manuscript in submission:
 
-D.Yates, J.K. Szinai, and A.D. Jones. (202X). Modeling the Water Systems of the Western US to Support Climate-Resilient Electricity System Planning. (In submission).
+D.Yates <sup>1</sup>, J.K. Szinai<sup>2,3</sup>, and A.D. Jones<sup>2,3</sup>. (202X). Modeling the Water Systems of the Western US to Support Climate-Resilient Electricity System Planning. (In submission).
+
+<sup>1</sup> National Center for Atmospheric Research
+<sup>2</sup> Lawrence Berkeley National Lab
+<sup>3</sup> Energy and Resources Group, UC Berkeley
 
 # Abstract
 
