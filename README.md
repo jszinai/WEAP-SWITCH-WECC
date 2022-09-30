@@ -18,7 +18,13 @@ An evaluation version of the WEAP model is available for free without a license.
 
 2. Once you have downloaded the WEAP software, download the zipped "backup" WWSM model file (WWSM_V1_0) from the model folder in this repository. Open the backup file with the WEAP software to unzip the model, input data, and saved results.
 
-3. When the WWSM_V1_0 file is unzipped by WEAP, the model's input data files will also be unzipped to the WEAP Areas folder on your computer, including climate data for the scenarios (LOCA downscaled) and observed data for calibration (observed hydropower generation, streamflow gage data, reservoir gage data). Climate data originates from 
+3. When the WWSM_V1_0 file is unzipped by WEAP, the model's input data files will also be unzipped to the WEAP Areas folder on your computer, including climate data for the scenarios (LOCA downscaled) and observed data for calibration (observed hydropower generation, streamflow gage data, reservoir gage data). 
+
+Climate data originates from an archive of Downscaled CMIP5 climate projections, based on LOCA downscaling: https://gdodcp.ucllnl.org/downscaled_cmip_projections/dcpInterface.html
+
+Data for calibration of streamflow, reservoirs, and statewide water use originates from the USGS Water Data for the Nation: https://waterdata.usgs.gov/nwis
+
+Hydropower data for calibration originates from the EIA: https://www.eia.gov/electricity/data/eia923/
 
 # Results
 1. Review the results from the 15 climate scenarios for the 2010 - 2060 period by clicking the Results panel within the WEAP software. 
@@ -27,7 +33,8 @@ An evaluation version of the WEAP model is available for free without a license.
 
 # Figures
 
-1. The R script "XXX" is used to create Figures X, X, X, X, X, with the data output from WEAP into the csv files in the X folder
+The R script "XXX" is used to create Figures 4C, 6A, 6B, 6C, 6D, 7B, 7C, 8, and 9 with the data output from WEAP into the csv files in the X folder, and 2 additional Excel files "XX" and "XX" that map some attributes to the WEAP results for easier aggregation and plotting.
+
 
 
 
