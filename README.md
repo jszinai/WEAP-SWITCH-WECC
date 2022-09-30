@@ -1,4 +1,4 @@
-# WEAP-SWITCH-WECC
+# Western US Water Systems Model (WWSM)
 A model of water resources of the Western US designed to support climate-resilient electricity system planning
 
 This repository archives the Western U.S. Water Systems Model (WWSM) created within the WEAP software platform and documented in the manuscript in submission:
