@@ -1,0 +1,260 @@
+WEAP_name,SWITCH_name,generation_plant_id,load_zone_id,load_zone_name,gen_tech,energy_source,capacity_limit_mw,capacity_weight,Avg_Annual_Generation_GWh_SWITCH,Notes,RoR_or_Reservoir
+Alamo,Alamo,154661,16,CA_SCE_CEN,Hydro_NonPumped,Water,19.6,1,67.01005556,,RoR
+Albeni Falls,Albeni Falls,154660,43,WA_ID_AVA,Hydro_NonPumped,Water,42,1,197.597611,,Reservoir
+Alcova,Alcova,154852,49,WY_SE,Hydro_NonPumped,Water,41.4,1,99.79783333,,RoR
+Alder,Alder,154778,46,WA_W,Hydro_NonPumped,Water,50,1,204.8349829,,Reservoir
+Alexander Reservoir,Soda,154650,26,ID_E,Hydro_NonPumped,Water,14.5,1,17.18066683,,Reservoir
+All American Hydro,Drop 5,154444,10,CA_IID,Hydro_NonPumped,Water,4,0.082474227,13.75733877,There are 5 small hydropower generators on the All American Canal so this 1 WEAP generator is mapped to 5 SWITCH generatrors,RoR
+All American Hydro,Drop 2 (CA),154492,10,CA_IID,Hydro_NonPumped,Water,10,0.206185567,46.79633676,There are 5 small hydropower generators on the All American Canal so this 1 WEAP generator is mapped to 5 SWITCH generatrors,RoR
+All American Hydro,Drop 3 (CA),154493,10,CA_IID,Hydro_NonPumped,Water,9.2,0.189690722,45.41359781,There are 5 small hydropower generators on the All American Canal so this 1 WEAP generator is mapped to 5 SWITCH generatrors,RoR
+All American Hydro,Drop 4,154494,10,CA_IID,Hydro_NonPumped,Water,19.6,0.404123711,87.27592955,There are 5 small hydropower generators on the All American Canal so this 1 WEAP generator is mapped to 5 SWITCH generatrors,RoR
+All American Hydro,Drop 1,154619,10,CA_IID,Hydro_NonPumped,Water,5.7,0.117525773,14.6850096,There are 5 small hydropower generators on the All American Canal so this 1 WEAP generator is mapped to 5 SWITCH generatrors,RoR
+American Falls,American Falls,154632,26,ID_E,Hydro_NonPumped,Water,92.4,1,311.5588333,,Reservoir
+Anderson Ranch,Anderson Ranch,154840,27,ID_S_OR_E,Hydro_NonPumped,Water,40,1,123.3018889,,Reservoir
+Balch 1,Balch 1,154380,13,CA_PGE_CEN,Hydro_NonPumped,Water,31,1,104.2240556,,RoR
+Balch 2,Balch 2,154381,13,CA_PGE_CEN,Hydro_NonPumped,Water,97.2,1,385.095,,RoR
+Balch Storage,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list,Reservoir
+Bank Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Bartlett Reservoir,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Bear Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Belden,Belden,154382,14,CA_PGE_N,Hydro_NonPumped,Water,117.9,1,272.9187368,,RoR
+Big Creek 1,Big Creek 1,154449,13,CA_PGE_CEN,Hydro_NonPumped,Water,88.4,1,329.4443333,,RoR
+Big Creek 2,Big Creek 2,154450,13,CA_PGE_CEN,Hydro_NonPumped,Water,66.6,1,300.1477777,,RoR
+Big Creek 2a,Big Creek 2A,154454,13,CA_PGE_CEN,Hydro_NonPumped,Water,110,1,349.0308421,,RoR
+Big Creek 3,Big Creek 3,154451,13,CA_PGE_CEN,Hydro_NonPumped,Water,174.5,1,666.8238947,,RoR
+Big Creek 4,Big Creek 4,154452,13,CA_PGE_CEN,Hydro_NonPumped,Water,100,1,361.9007368,,Reservoir
+Big Creek 8,Big Creek 8,154453,13,CA_PGE_CEN,Hydro_NonPumped,Water,75,1,219.445111,,RoR
+Bliss,Bliss,154633,27,ID_S_OR_E,Hydro_NonPumped,Water,75,1,332.1735001,,RoR
+Blue Mesa,Blue Mesa,154600,25,CO_SW,Hydro_NonPumped,Water,86.4,1,227.6497222,,Reservoir
+Bonneville,Bonneville,154722,38,OR_PDX,Hydro_NonPumped,Water,1162,1,4599.248789,,RoR
+Boundary,Boundary,154859,43,WA_ID_AVA,Hydro_NonPumped,Water,1118.6,1,3650.577426,,Reservoir
+Box Canyon,Box Canyon,154776,43,WA_ID_AVA,Hydro_NonPumped,Water,90,1,426.9993889,,RoR
+Boysen Reservoir,Boysen,154593,48,WY_NW,Hydro_NonPumped,Water,15,1,52.45911111,,Reservoir
+Brownlee,Brownlee,154634,27,ID_S_OR_E,Hydro_NonPumped,Water,675,1,2118.804058,,Reservoir
+Bucks Creek,Bucks Creek,154383,14,CA_PGE_N,Hydro_NonPumped,Water,66,1,194.3396667,,RoR
+Butt Valley,Butt Valley,154384,14,CA_PGE_N,Hydro_NonPumped,Water,40,1,119.6869444,,RoR
+Butt Valley Reservoir,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list,Reservoir
+C J Strike,C J Strike,154635,27,ID_S_OR_E,Hydro_NonPumped,Water,82.8,1,428.4201111,,RoR
+Cabinet Gorge,Cabinet Gorge,154651,43,WA_ID_AVA,Hydro_NonPumped,Water,265.2,1,1064.292222,,Reservoir
+Camanche Reservoir,Camanche,154615,13,CA_PGE_CEN,Hydro_NonPumped,Water,10.8,1,30.90144439,,Reservoir
+Camino,Camino,154539,14,CA_PGE_N,Hydro_NonPumped,Water,157.8,1,320.0490526,,RoR
+Canyon Ferry,Canyon Ferry,154844,32,MT_SW,Hydro_NonPumped,Water,49.8,1,319.2333889,,Reservoir
+Caribou 1,Caribou 1,154385,14,CA_PGE_N,Hydro_NonPumped,Water,73.8,1,123.8522778,,RoR
+Caribou 2,Caribou 2,154386,14,CA_PGE_N,Hydro_NonPumped,Water,117.9,1,401.7123158,,RoR
+Carmen Smith,Carmen Smith,154718,39,OR_W,Hydro_NonPumped,Water,114.3,1,232.7678683,,RoR
+Castaic,Castaic,154500,16,CA_SCE_CEN,Hydro_NonPumped,Water,56,1,324.6181579,,RoR
+Castaic Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Listed twice as Castaic and Castaic Lake,Reservoir
+Cedar Falls,Cedar Falls (WA),154856,46,WA_W,Hydro_NonPumped,Water,30,1,73.89049994,,Reservoir
+Chandler,Chandler,154849,40,OR_WA_BPA,Hydro_NonPumped,Water,12,1,45.55922233,,RoR
+Chelan,Chelan,154855,44,WA_N_CEN,Hydro_NonPumped,Water,59.2,1,387.2759999,,Reservoir
+Cherry and Eleanor,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Associated with Dion R Holm, already in SWITCH list",Reservoir
+Chicago Park,Chicago Park,154524,14,CA_PGE_N,Hydro_NonPumped,Water,44,1,136.4987777,,RoR
+Chief Joseph,Chief Joseph,154784,44,WA_N_CEN,Hydro_NonPumped,Water,2456.2,1,10890.22021,,Reservoir
+Cochrane,Cochrane,154667,29,MT_NE,Hydro_NonPumped,Water,60.4,1,254.2130556,,RoR
+Colgate,Colgate,154559,14,CA_PGE_N,Hydro_NonPumped,Water,315,1,1088.164842,,RoR
+Collierville Powerhouse,Collierville Powerhouse,155349,13,CA_PGE_CEN,Hydro_NonPumped,Water,253,1,474.5549489,,RoR
+Control Gorge,Control Gorge,154502,16,CA_SCE_CEN,Hydro_NonPumped,Water,37.5,1,61.56788911,,RoR
+Coolidge Reservoir,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Not in SWITCH list, 10 MW",Reservoir
+Copco 1 and 2,Copco 1,154439,39,OR_W,Hydro_NonPumped,Water,20,0.425531915,85.27416678,"Copco 2 is separate SWITCH reservoir, so generation is split between Copco 1 and Copco 1",Reservoir
+Copco 1 and 2,Copco 2,154440,39,OR_W,Hydro_NonPumped,Water,27,0.574468085,108.2006667,"Copco 2 is separate SWITCH reservoir, so generation is split between Copco 1 and Copco 1",Reservoir
+Cougar Dam and Reservoir,Cougar,154723,39,OR_W,Hydro_NonPumped,Water,26,1,93.52522228,,Reservoir
+Cowlitz Falls,Cowlitz Falls,154934,46,WA_W,Hydro_NonPumped,Water,70,1,238.7164117,,RoR
+Cresta,Cresta,154390,14,CA_PGE_N,Hydro_NonPumped,Water,73.8,1,263.2625,,RoR
+Cushman 1,Cushman 1,154779,46,WA_W,Hydro_NonPumped,Water,43.2,1,127.7578778,,Reservoir
+Cushman 2,Cushman 2,154780,46,WA_W,Hydro_NonPumped,Water,84.6,1,195.1205144,,RoR
+Cutler,Cutler Hydro,154739,41,UT_N,Hydro_NonPumped,Water,30,1,64.81633322,,Reservoir
+Davis Dam,Davis Dam,154368,5,AZ_NW,Hydro_NonPumped,Water,254.8,1,1134.0375,,Reservoir
+Detroit,Detroit,154724,39,OR_W,Hydro_NonPumped,Water,100,1,299.6481111,,Reservoir
+Devil Canyon,Devil Canyon,154544,17,CA_SCE_S,Hydro_NonPumped,Water,276.2,1,911.1437895,,RoR
+Dexter and Looking Point,Dexter,154725,39,OR_W,Hydro_NonPumped,Water,15,0.111111111,68.5525,Dexter and Lookout point are separate in SWITCH so generation for Dexter and Looking Point (typo) are split between the two,Reservoir
+Dexter and Looking Point,Lookout Point,154729,39,OR_W,Hydro_NonPumped,Water,120,0.888888889,289.0691111,Dexter and Lookout point are separate in SWITCH so generation for Dexter and Looking Point (typo) are split between the two,Reservoir
+Diablo,Diablo,154858,46,WA_W,Hydro_NonPumped,Water,182.4,1,765.8312222,,Reservoir
+Diamond Valley,Diamond Valley Lake,154973,17,CA_SCE_S,Hydro_NonPumped,Water,29.7,1,23.50782329,,Reservoir
+Dillion,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Dion R Holm,Dion R Holm,154489,13,CA_PGE_CEN,Hydro_NonPumped,Water,156.8,1,622.7715789,,RoR
+Don Pedro,Don Pedro,154547,13,CA_PGE_CEN,Hydro_NonPumped,Water,170.8,1,356.7924737,,Reservoir
+Donnells,Donnells,154527,13,CA_PGE_CEN,Hydro_NonPumped,Water,72,1,257.2065557,,Reservoir
+Drum 1,Drum 1,154393,14,CA_PGE_N,Hydro_NonPumped,Water,49.2,1,86.56583333,,RoR
+Drum 2,Drum 2,154394,14,CA_PGE_N,Hydro_NonPumped,Water,53.1,1,264.0082222,,RoR
+Dworshak Dam and Reservoir,Dworshak,154654,43,WA_ID_AVA,Hydro_NonPumped,Water,465,1,1729.974222,,Reservoir
+Edward C Hyatt_Oroville,Edward C Hyatt,154545,14,CA_PGE_N,Hydro_NonPumped,Water,351,1,1572.417895,,Reservoir
+Electra,Electra,154397,13,CA_PGE_CEN,Hydro_NonPumped,Water,102.5,1,374.8001053,,RoR
+Electron,Electron,154763,46,WA_W,Hydro_NonPumped,Water,22.8,1,95.16733339,,RoR
+Elephant Butte,Elephant Butte,154845,33,NM_N,Hydro_NonPumped,Water,27.9,1,44.59727761,,Reservoir
+ElevenMileAndSpinney,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Estes,Estes,154601,22,CO_DEN,Hydro_NonPumped,Water,45,1,102.4761111,,RoR
+Exchequer,Exchequer,154522,13,CA_PGE_CEN,Hydro_NonPumped,Water,94.5,1,247.5718333,,Reservoir
+Faraday,Faraday,154712,38,OR_PDX,Hydro_NonPumped,Water,19.2,1,154.0578889,,RoR
+Flaming Gorge,Flaming Gorge,154848,41,UT_N,Hydro_NonPumped,Water,151.8,1,418.2611667,,Reservoir
+Flatiron,Flatiron,154606,22,CO_DEN,Hydro_NonPumped,Water,86,1,191.7838947,,RoR
+Florence Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Folsom,Folsom,154549,21,CA_SMUD,Hydro_NonPumped,Water,198.6,1,515.0429474,,Reservoir
+Foothills,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,RoR
+Forbestown,Forbestown,154529,14,CA_PGE_N,Hydro_NonPumped,Water,41.9,1,130.6053331,,RoR
+Fort Peck,Fort Peck,154880,29,MT_NE,Hydro_NonPumped,Water,167,1,765.1092778,,Reservoir
+Fremont Canyon,Fremont Canyon,154791,49,WY_SE,Hydro_NonPumped,Water,66.8,1,194.8108891,,Reservoir
+Friant Hydro Facility,Friant Hydro Facility,155187,13,CA_PGE_CEN,Hydro_NonPumped,Water,37.5,1,74.50347728,,Reservoir
+Gem State,Gem State,154631,26,ID_E,Hydro_NonPumped,Water,23.4,1,114.0254999,,RoR
+Glen Canyon_Lake Powell,Glen Canyon Dam,154369,2,AZ_APS_N,Hydro_NonPumped,Water,1312,1,3751.314,,Reservoir
+Glendo,Glendo,154792,49,WY_SE,Hydro_NonPumped,Water,38,1,74.51866667,,Reservoir
+Gorge,Gorge,154857,46,WA_W,Hydro_NonPumped,Water,207.3,1,928.6123684,,RoR
+Grace,Grace,154648,26,ID_E,Hydro_NonPumped,Water,33,1,81.438,,RoR
+Granby_Grand,Granby Hydro,156632,24,CO_NW,Hydro_NonPumped,Water,1.2,1,4.56016137,,Reservoir
+Grand Coulee,Grand Coulee,154820,44,WA_N_CEN,Hydro_NonPumped,Water,6495,1,20209.54584,,Reservoir
+Grassy Valley,Rollins,154337,14,CA_PGE_N,Hydro_NonPumped,Water,12.1,1,62.54522217,,Reservoir
+Green Peter,Green Peter,154726,39,OR_W,Hydro_NonPumped,Water,80,1,230.2109444,,Reservoir
+H M Jackson,H M Jackson,154956,46,WA_W,Hydro_NonPumped,Water,111.8,1,435.1066429,,Reservoir
+Haas,Haas,154398,13,CA_PGE_CEN,Hydro_NonPumped,Water,135,1,407.6438947,,RoR
+Hell Hole,French Meadows,154534,14,CA_PGE_N,Hydro_NonPumped,Water,15.3,1,51.35027822,"Previously associated with French Meadows powerhouse but that was removed from list, less than 30 MW",Reservoir
+Hells Canyon,Hells Canyon,154695,27,ID_S_OR_E,Hydro_NonPumped,Water,391.5,1,1870.939278,,Reservoir
+Hetch Hetchy,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Hills Creek,Hills Creek,154727,39,OR_W,Hydro_NonPumped,Water,30,1,132.6916112,,Reservoir
+Holter Lake,Holter,154669,29,MT_NE,Hydro_NonPumped,Water,38.4,1,264.8166112,,Reservoir
+Homestake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Horse Mesa,Horse Mesa,154358,6,AZ_PHX,Hydro_NonPumped,Water,29.7,1,81.11778947,,Reservoir
+Hungry Horse,Hungry Horse,154678,30,MT_NW,Hydro_NonPumped,Water,428,1,938.3371111,,Reservoir
+Huntington Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Ice Harbor,Ice Harbor,154785,40,OR_WA_BPA,Hydro_NonPumped,Water,603,1,1692.132368,,RoR
+Iron Canyon Res,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list under James P Black,Reservoir
+Iron Gate,Iron Gate,154442,39,OR_W,Hydro_NonPumped,Water,18,1,104.0777223,,Reservoir
+J S Eastwood,J S Eastwood,154342,13,CA_PGE_CEN,Hydro_Pumped,Water,199.8,1,161.4656316,,RoR
+James P Black,James B Black,154405,14,CA_PGE_N,Hydro_NonPumped,Water,168.6,1,618.5309474,,RoR
+Jaybird,Jaybird,154540,14,CA_PGE_N,Hydro_NonPumped,Water,161.6,1,478.4376842,,RoR
+John C Boyle,John C Boyle,154702,37,OR_E,Hydro_NonPumped,Water,98.7,1,238.9042222,,RoR
+John Day,John Day,154728,40,OR_WA_BPA,Hydro_NonPumped,Water,2025,1,8877.606789,,RoR
+Judge F Carr,Judge F Carr,154550,14,CA_PGE_N,Hydro_NonPumped,Water,154.4,1,321.3784211,,RoR
+Kerckchoff 2,Kerckhoff 2,154625,13,CA_PGE_CEN,Hydro_NonPumped,Water,139.5,1,406.9617368,,RoR
+Kern River 3,Kern River 3,154466,16,CA_SCE_CEN,Hydro_NonPumped,Water,40.3,1,103.5329999,,RoR
+Kerr,Selis Ksanka Qlispe,154670,30,MT_NW,Hydro_NonPumped,Water,207.6,1,1028.236,,Reservoir
+Keswick,Keswick,154551,14,CA_PGE_N,Hydro_NonPumped,Water,117,1,387.1608421,,RoR
+Kings River PH,Kings River PH,154407,13,CA_PGE_CEN,Hydro_NonPumped,Water,48.6,1,137.6827778,,RoR
+Kootenay Lake CAN,Kootenay_Canal,157883,9,CAN_BC,Hydro_NonPumped,Water,580,1,2660.249808,,Reservoir
+Kortes,Kortes,154794,49,WY_SE,Hydro_NonPumped,Water,36,1,121.9253336,,RoR
+LaGrande,LaGrande,154781,46,WA_W,Hydro_NonPumped,Water,64,1,318.4281794,,RoR
+Lake Almanor,NA,NA,NA,NA,NA,NA,NA,NA,NA,Associated with Butt Valley Powerhouse (already in list),Reservoir
+Lake Coeur dAlene  Post Falls,Post Falls,154652,43,WA_ID_AVA,Hydro_NonPumped,Water,14.5,1,84.11250017,,Reservoir
+Lake Crowley,Pleasant Valley Hydro,154513,16,CA_SCE_CEN,Hydro_NonPumped,Water,3.2,1,6.156,,Reservoir
+Lake Isabella,Isabella Hydro Project,155019,16,CA_SCE_CEN,Hydro_NonPumped,Water,11.8,1,19.67411133,,Reservoir
+Lake Lemolo,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list under Lemolo 1 and Lemolo 2,Reservoir
+Lake Lemolo,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list under Lemolo 1 and Lemolo 2,Reservoir
+Lake McCloud,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Hoover Dam_Lake Mead,Hoover Dam (AZ),154999,36,NV_S,Hydro_NonPumped,Water,1039.4,0.5,1742.903,SWITCH models AZ and NV portions of Hoover Dam separately so generation split across 2 gen plant ids,Reservoir
+Hoover Dam_Lake Mead,Hoover Dam (NV),154370,36,NV_S,Hydro_NonPumped,Water,1039.4,0.5,2043.012474,SWITCH models AZ and NV portions of Hoover Dam separately so generation split across 2 gen plant ids,Reservoir
+Lake Pleasant Res New Waddell Dam,Waddell,154910,2,AZ_APS_N,Hydro_Pumped,Water,40,1,31.45638889,,Reservoir
+Lake Thomas Edison,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Lemolo 1,Lemolo 1,154703,39,OR_W,Hydro_NonPumped,Water,32,1,131.232889,,RoR
+Lemolo 2,Lemolo 2,154853,39,OR_W,Hydro_NonPumped,Water,38.5,1,151.6788333,,RoR
+Libby,Libby,154823,30,MT_NW,Hydro_NonPumped,Water,525,1,2097.207889,,Reservoir
+Little Falls,Little Falls (WA),154767,43,WA_ID_AVA,Hydro_NonPumped,Water,34.8,1,191.2289999,,RoR
+Little Goose,Little Goose,154786,43,WA_ID_AVA,Hydro_NonPumped,Water,675,1,2144.210526,,RoR
+Long Lake,Long Lake,154768,43,WA_ID_AVA,Hydro_NonPumped,Water,70,1,488.2187777,,Reservoir
+Look Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,RoR
+Loon Lake Rubicon,Loon Lake,154541,14,CA_PGE_N,Hydro_NonPumped,Water,74.1,1,88.11105556,,Reservoir
+Lost Creek,Lost Creek,154824,39,OR_W,Hydro_NonPumped,Water,49,1,241.3592222,,Reservoir
+Lower Baker,Lower Baker,154764,46,WA_W,Hydro_NonPumped,Water,111.2,1,354.6748334,,Reservoir
+Lower Granite,Lower Granite,154825,43,WA_ID_AVA,Hydro_NonPumped,Water,810,1,2161.371368,,RoR
+Lower Monumental,Lower Monumental,154787,40,OR_WA_BPA,Hydro_NonPumped,Water,810,1,2220.276211,,RoR
+Lower Salmon,Lower Salmon,154639,27,ID_S_OR_E,Hydro_NonPumped,Water,60,1,234.4583891,,RoR
+Lucky Peak Power Plant Project,Lucky Peak Power Plant Project,155005,27,ID_S_OR_E,Hydro_NonPumped,Water,101.2,1,314.5176667,,Reservoir
+Lwr Bear River Reservoir,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Mammoth Pool,Mammoth Pool,154470,13,CA_PGE_CEN,Hydro_NonPumped,Water,190,1,496.9456842,,Reservoir
+Mayfield,Mayfield,154782,46,WA_W,Hydro_NonPumped,Water,162,1,689.4833656,,Reservoir
+McNary,McNary,154730,40,OR_WA_BPA,Hydro_NonPumped,Water,990.5,1,5404.512167,,RoR
+Merwin,Merwin,154759,46,WA_W,Hydro_NonPumped,Water,136,1,501.8109444,,Reservoir
+Middle Fork,Middle Fork,154535,14,CA_PGE_N,Hydro_NonPumped,Water,122.4,1,482.2601579,,Reservoir
+Middle Fork RR,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list under Middle Fork,RoR
+Middle Gorge,Middle Gorge,154512,16,CA_SCE_CEN,Hydro_NonPumped,Water,37.5,1,71.80988867,,RoR
+Milner Hydro,Milner Hydro,154913,27,ID_S_OR_E,Hydro_NonPumped,Water,59.5,1,110.4494442,,RoR
+Minidoka Dam and Lake Walcott,Minidoka,154843,27,ID_S_OR_E,Hydro_NonPumped,Water,27.7,1,99.08683322,,Reservoir
+Moccasin,Moccasin,154490,13,CA_PGE_CEN,Hydro_NonPumped,Water,100,1,352.8130526,,RoR
+Mojave Siphon,Mojave Siphon,154898,16,CA_SCE_CEN,Hydro_NonPumped,Water,32.7,1,58.94094444,,RoR
+Morony,Morony,154671,29,MT_NE,Hydro_NonPumped,Water,63,1,254.9063333,,RoR
+Morrow Point,Morrow Point,154602,25,CO_SW,Hydro_NonPumped,Water,173.2,1,296.7185,,Reservoir
+Mossyrock,Mossyrock,154783,46,WA_W,Hydro_NonPumped,Water,300,1,995.8333942,,Reservoir
+Mount Elbert,Mount Elbert,154833,24,CO_NW,Hydro_Pumped,Water,200,1,-90.45294737,,RoR
+Narrows 2,Narrows 2,154560,14,CA_PGE_N,Hydro_NonPumped,Water,46.7,1,172.2097222,,Reservoir
+Navajo Dam,Navajo Dam,154618,4,AZ_NM_N,Hydro_NonPumped,Water,30,1,95.53688889,,Reservoir
+New Bullards Bar,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list under Colgate,Reservoir
+New Melones,New Melones,154818,13,CA_PGE_CEN,Hydro_NonPumped,Water,300,1,437.2970526,,Reservoir
+Nine Mile UpRiver and Upper Falls,Nine Mile,154770,43,WA_ID_AVA,Hydro_NonPumped,Water,37.6,1,104.3920556,,RoR
+North Fork,North Fork,154713,38,OR_PDX,Hydro_NonPumped,Water,40.8,1,186.0032778,,RoR
+Noxon Rapids,Noxon Rapids,154677,30,MT_NW,Hydro_NonPumped,Water,569.5,1,1687.258389,,Reservoir
+Oak Grove,Oak Grove,154867,38,OR_PDX,Hydro_NonPumped,Water,51,1,218.9765,,RoR
+Okanagan Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Oneida,Oneida,154649,26,ID_E,Hydro_NonPumped,Water,30,1,39.28955556,,Reservoir
+Oxbow,Oxbow (OR),154696,27,ID_S_OR_E,Hydro_NonPumped,Water,190,1,944.6202778,,RoR
+Palisades Dam,Palisades Dam,154659,26,ID_E,Hydro_NonPumped,Water,176.4,1,569.3187222,,Reservoir
+Parker Dam,Parker Dam,154555,18,CA_SCE_SE,Hydro_NonPumped,Water,120,1,444.0363684,,Reservoir
+Pelton,Pelton,154714,40,OR_WA_BPA,Hydro_NonPumped,Water,109.8,1,413.0405,,Reservoir
+Pilot Knob,Pilot Knob,154495,10,CA_IID,Hydro_NonPumped,Water,33,1,23.19688883,,RoR
+Pine Flat,Pine Flat,154970,13,CA_PGE_CEN,Hydro_NonPumped,Water,165,1,371.0108421,,Reservoir
+Pit 1,Pit 1,154414,14,CA_PGE_N,Hydro_NonPumped,Water,69.2,1,240.9200556,,RoR
+Pit 3,Pit 3,154415,14,CA_PGE_N,Hydro_NonPumped,Water,80.1,1,315.4686667,,RoR
+Pit 3 Dam,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list,Reservoir
+Pit 4,Pit 4,154416,14,CA_PGE_N,Hydro_NonPumped,Water,103.4,1,406.4075789,,RoR
+Pit 5,Pit 5,154417,14,CA_PGE_N,Hydro_NonPumped,Water,141.6,1,687.9946316,,RoR
+Pit 6,Pit 6,154418,14,CA_PGE_N,Hydro_NonPumped,Water,79.2,1,321.1235,,RoR
+Pit 7,Pit 7,154419,14,CA_PGE_N,Hydro_NonPumped,Water,109.8,1,440.6544211,,RoR
+Pit Storage,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Poe,Poe,154420,14,CA_PGE_N,Hydro_NonPumped,Water,142.8,1,501.0481053,,RoR
+Pole Hill,Pole Hill,154608,22,CO_DEN,Hydro_NonPumped,Water,38.2,1,171.7874444,,RoR
+Priest Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,,Reservoir
+Priest Rapids,Priest Rapids,154774,44,WA_N_CEN,Hydro_NonPumped,Water,955.6,1,4387.013842,,RoR
+Prospect 2,Prospect 1,154704,39,OR_W,Hydro_NonPumped,Water,3.8,0.086363636,18.898667,"SWITCH also models Prospect 1, Prospect 3, and Prospect 4 separately",RoR
+Prospect 2,Prospect 2,154705,39,OR_W,Hydro_NonPumped,Water,32,0.727272727,226.2791112,"SWITCH also models Prospect 1, Prospect 3, and Prospect 4 separately",RoR
+Prospect 2,Prospect 3,154706,39,OR_W,Hydro_NonPumped,Water,7.2,0.163636364,35.53288889,"SWITCH also models Prospect 1, Prospect 3, and Prospect 4 separately",RoR
+Prospect 2,Prospect 4,154707,39,OR_W,Hydro_NonPumped,Water,1,0.022727273,3.235111167,"SWITCH also models Prospect 1, Prospect 3, and Prospect 4 separately",RoR
+Pyramid Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Upper reservoir of Castaic (already in list),Reservoir
+R C Kirkwood,R C Kirkwood,154491,13,CA_PGE_CEN,Hydro_NonPumped,Water,115.5,1,491.3575789,,RoR
+Rainbow,Rainbow (MT),154673,29,MT_NE,Hydro_NonPumped,Water,59,1,271.2732223,,RoR
+Ralston,Ralston,154537,14,CA_PGE_N,Hydro_NonPumped,Water,79.2,1,333.3358334,,RoR
+Rock Creek,Rock Creek,154422,14,CA_PGE_N,Hydro_NonPumped,Water,126,1,390.5973684,,RoR
+Rock Island,Rock Island,154828,44,WA_N_CEN,Hydro_NonPumped,Water,567.3,1,2481.492,,RoR
+Rocky Reach,Rocky Reach,154772,44,WA_N_CEN,Hydro_NonPumped,Water,1299.6,1,5822.729684,,RoR
+Ross,Ross,154829,46,WA_W,Hydro_NonPumped,Water,450,1,698.9711053,,Reservoir
+Round Butte,Round Butte,154716,40,OR_WA_BPA,Hydro_NonPumped,Water,372.5,1,967.9650556,,Reservoir
+Roza,Roza,154850,40,OR_WA_BPA,Hydro_NonPumped,Water,12.9,1,62.99677767,,RoR
+Ryan,Ryan,154674,29,MT_NE,Hydro_NonPumped,Water,52.8,1,405.7707222,,RoR
+Salt Springs,Salt Springs,154425,13,CA_PGE_CEN,Hydro_NonPumped,Water,42,1,167.3842778,,Reservoir
+San Francisquito 1,San Francisquito 1,154862,16,CA_SCE_CEN,Hydro_NonPumped,Water,65.5,1,144.4097222,,RoR
+San Francisquito 2,San Francisquito 2,154863,16,CA_SCE_CEN,Hydro_NonPumped,Water,32,1,56.20816667,,RoR
+San Luis,W R Gianelli,154556,13,CA_PGE_CEN,Hydro_Pumped,Water,424,1,-127.4361053,,Reservoir
+San Vicente Reservoir,NA,NA,NA,NA,NA,NA,NA,NA,NA,,Reservoir
+Seminoe,Seminoe,154795,49,WY_SE,Hydro_NonPumped,Water,51.6,1,114.6931113,,Reservoir
+SF Tolt,South Fork Tolt,154622,46,WA_W,Hydro_NonPumped,Water,16.8,1,54.84822222,,Reservoir
+Shasta,Shasta,154553,14,CA_PGE_N,Hydro_NonPumped,Water,714,1,1872.996368,,Reservoir
+Shaver Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,Reservoir associated with Eastwood pumped storage (already in list),Reservoir
+Silverwood Lake and Devil Canyon,NA,NA,NA,NA,NA,NA,NA,NA,NA,Already in SWITCH list under Devil Canyon,Reservoir
+Sly Creek,Sly Creek,154630,14,CA_PGE_N,Hydro_NonPumped,Water,12.1,1,30.32427789,,Reservoir
+Smith Falls,Smith Falls Hydro Project,155309,43,WA_ID_AVA,Hydro_NonPumped,Water,38.1,1,66.66460767,,RoR
+Snoqualmie and Twin Falls,Snoqualmie 2,154968,46,WA_W,Hydro_NonPumped,Water,38.7,1,137.6961333,,RoR
+Spaulding Reservoir,Spaulding 1,154427,14,CA_PGE_N,Hydro_NonPumped,Water,7,0.404624277,29.57688889,SWITCH also models Spaulding 2 and Spaulding 3 separately,Reservoir
+Spaulding Reservoir,Spaulding 2,154428,14,CA_PGE_N,Hydro_NonPumped,Water,3.7,0.213872832,8.672111111,SWITCH also models Spaulding 2 and Spaulding 3 separately,Reservoir
+Spaulding Reservoir,Spaulding 3,154429,14,CA_PGE_N,Hydro_NonPumped,Water,6.6,0.38150289,25.58283333,SWITCH also models Spaulding 2 and Spaulding 3 separately,Reservoir
+Spring Creek,Spring Creek,154557,14,CA_PGE_N,Hydro_NonPumped,Water,180,1,364.6596316,,RoR
+Stanislaus,Stanislaus,154431,13,CA_PGE_CEN,Hydro_NonPumped,Water,81.9,1,344.169,,RoR
+Strawberry Reservoir,NA,NA,NA,NA,NA,NA,NA,NA,NA,Not in SWITCH list,Reservoir
+Summer Falls Power Plant,Summer Falls Power Plant,155646,44,WA_N_CEN,Hydro_NonPumped,Water,92,1,375.3610833,,RoR
+Swift 1,Swift 1,154760,46,WA_W,Hydro_NonPumped,Water,240,1,646.0983158,,Reservoir
+The Dalles,The Dalles,154777,40,OR_WA_BPA,Hydro_NonPumped,Water,1819.7,1,6514.171105,,RoR
+Theodore Roosevelt,Roosevelt,154364,6,AZ_PHX,Hydro_NonPumped,Water,36,1,68.16244439,,Reservoir
+Thompson Falls,Thompson Falls,154675,30,MT_NW,Hydro_NonPumped,Water,98.1,1,486.9366111,,RoR
+Tieton Dam and Reservoir,Tieton Dam Hydro Electric Project,155870,40,OR_WA_BPA,Hydro_NonPumped,Water,13.8,1,52.16677778,,Reservoir
+Tiger Creek,Tiger Creek,154433,13,CA_PGE_CEN,Hydro_NonPumped,Water,52.2,1,254.0434444,,RoR
+Toketee Falls,Toketee Falls,154710,39,OR_W,Hydro_NonPumped,Water,42.6,1,214.1397223,,RoR
+Trinity Lake,Trinity,154558,14,CA_PGE_N,Hydro_NonPumped,Water,140,1,384.8964211,,Reservoir
+Turquoise Lake,Sugarloaf Hydro Plant,155192,24,CO_NW,Hydro_NonPumped,Water,2.5,1,4.990337921,Less than 30 MW,Reservoir
+Twin Falls,Twin Falls (ID),154644,27,ID_S_OR_E,Hydro_NonPumped,Water,52.7,1,115.9276665,,RoR
+Union Valley,Union Valley,154878,14,CA_PGE_N,Hydro_NonPumped,Water,38.6,1,96.577833,,Reservoir
+Upper Baker,Upper Baker,154766,46,WA_W,Hydro_NonPumped,Water,104.8,1,337.5703889,,Reservoir
+Upper Gorge,Upper Gorge,154519,16,CA_SCE_CEN,Hydro_NonPumped,Water,37.5,1,71.26827778,,RoR
+Upper Klamath Lake,NA,NA,NA,NA,NA,NA,NA,NA,NA,,Reservoir
+W E Warne,W E Warne,154827,16,CA_SCE_CEN,Hydro_NonPumped,Water,74.2,1,322.6331111,,RoR
+Wanapum,Wanapum,154775,44,WA_N_CEN,Hydro_NonPumped,Water,1098,1,4746.661368,,RoR
+Wells,Wells,154773,44,WA_N_CEN,Hydro_NonPumped,Water,696.6,1,4070.702737,,RoR
+Whiskey Town,Whiskeytown,154912,14,CA_PGE_N,Hydro_NonPumped,Water,3.5,1,24.02394439,,Reservoir
+White Rock_Slab Creek,White Rock/Slab Creek,154543,14,CA_PGE_N,Hydro_NonPumped,Water,266.5,1,483.5311579,,RoR
+Woodleaf,Woodleaf,154531,14,CA_PGE_N,Hydro_NonPumped,Water,67.2,1,218.7909445,,RoR
+Yale,Yale,154761,46,WA_W,Hydro_NonPumped,Water,134,1,566.551,,Reservoir
+Yellowtail,Yellowtail,154679,31,MT_SE,Hydro_NonPumped,Water,268.8,1,681.0692222,,Reservoir
+Yelm,Yelm,154771,46,WA_W,Hydro_NonPumped,Water,12,1,69.71433361,,RoR
