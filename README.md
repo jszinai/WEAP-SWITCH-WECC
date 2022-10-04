@@ -12,7 +12,7 @@ D.Yates <sup>1</sup>, J.K. Szinai <sup>2,3</sup>, and A.D. Jones <sup>2,3</sup>.
 <sup>3</sup> Energy and Resources Group, UC Berkeley
 
 Data reference:
-https://doi.org/10.5281/zenodo.543244816
+https://doi.org/10.5281/zenodo.7145299
 
 # Abstract
 
