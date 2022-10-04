@@ -11,6 +11,9 @@ D.Yates <sup>1</sup>, J.K. Szinai <sup>2,3</sup>, and A.D. Jones <sup>2,3</sup>.
 
 <sup>3</sup> Energy and Resources Group, UC Berkeley
 
+Data reference:
+https://doi.org/10.5281/zenodo.543244816
+
 # Abstract
 
 Electricity and water systems in the Western US (WUS) are closely connected, with hydropower comprising up to 80% of generation, and electricity related to water comprising up to 20% of electricity use in certain states. Because of these interdependencies, the serious threat of climate change to WUS resources will likely have compounding electricity impacts, yet water system models rarely estimate energy implications, especially at the geographic scale of the expansive WUS water and electricity networks. This study, therefore, develops a WUS-wide water system model with a particular emphasis on estimating climate impacts on hydropower generation and water-related energy use, which can be linked with a grid expansion model to support climate-resilient electricity planning. The water system model combines climatically-driven physical hydrology and management of both water supply and demand allocation, and is applied to an ensemble of 15 climate scenarios out to 2050. Model results show decreasing streamflow in key basins of the WUS under most scenarios. Annual electricity use related to water increases up to 4%, driven by growing agricultural demand and shifts to energy-intensive groundwater to replace declining surface water. Total annual hydropower generation changes by +5% to -20% by mid-century, but declines in most scenarios. Energy use increases coincide with hydropower generation declines, suggesting additional energy capacity may be needed to achieve WUS grid reliability and decarbonization goals, and demonstrating the importance of concurrently evaluating the climate signal on both water-for-energy and energy-for-water.
