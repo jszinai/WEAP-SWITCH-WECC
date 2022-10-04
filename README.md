@@ -22,12 +22,12 @@ The Western U.S. Water Systems Model (WWSM) was developed within the WEAP (Water
 1. To view the WWSM and see the results, you must first download and install WEAP software from https://www.weap21.org/
 An evaluation version of the WEAP model is available for free without a license. This evaluation version allows users to open and view the WWSM, and view the saved results from the climate scenarios associated with the above manuscript in submission. To run new scenarios and create new results with different model parameters, a WEAP license is needed and must be acquired through the WEAP website from SEI. A free tutorial on using the WEAP software is available on the website. 
 
-2. Once you have downloaded the WEAP software, download the zipped "backup" WWSM model file (WWSM_V1_0) from the model folder in this repository. Open the backup file with the WEAP software to unzip the model, input data, and saved results.
+2. Once you have downloaded the WEAP software, download the zipped "backup" WWSM model file (WWSM_WEAPSwitch_V1_0.WEAP) from this repository. Open the backup file with the WEAP software to unzip the model, input data, and saved results.
 
 3. The input and result csv files that pertain to the model and are included in the zipped backup file are also saved under the data folder of this repo for easier access without the need to download the WEAP software.
 
 # Input data files
-When the WWSM_V1_0 file is unzipped by WEAP, the model's associated input data files will also be unzipped to the "WEAP Areas" folder on your computer, including climate data for the scenarios (LOCA downscaled) and observed data for calibration (observed hydropower generation, streamflow gage data, reservoir gage data). These data files are also available in the data folder in this repo.
+When the WWSM_WEAPSwitch_V1_0.WEAP file is unzipped by WEAP, the model's associated input data files will also be unzipped to the "WEAP Areas" folder on your computer, including climate data for the scenarios (LOCA downscaled) and observed data for calibration (observed hydropower generation, streamflow gage data, reservoir gage data). These data files are also available in the data folder in this repo.
 
 data\ClimateLOCA:
 
