@@ -20,8 +20,8 @@ WEAP_run_id <- "WWSM_WEAPSwitch_V1_0"
 mapping_file <- "Mapping_WEAP_Objects_V1_0.xlsx"
 
 #update with your directories here:
-# weap_dir <- "/Users/juliaszinai/Dropbox/Linux_work/WEAP_data_and_scripts/"
-weap_dir_results <- "/Users/juliaszinai/Dropbox/Linux_work/WEAP_data_and_scripts/WEAP_results/WWSM_WEAPSwitch_V1_0/"
+# weap_dir <- ""
+weap_dir_results <- ""
 
 #list of 15 climate scenarios run for WWSM V1 submitted manuscript
 scenario_list <- c("RefLOCA", "CCSM","HadGEM2-ES","CanESM","CESM1-CAM5","ACCESS-1.0","CNRM-CM5",
